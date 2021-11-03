@@ -14,7 +14,8 @@ function get(req, res) {
         respostas: [
             'Burro qdo foge',
             'Cueca do padre',
-            'Marrom bosta'
+            'Marrom bosta',
+            'Amarelo mão de quem peidou'
         ]
     })
 }
