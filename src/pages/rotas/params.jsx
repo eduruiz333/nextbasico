@@ -17,7 +17,7 @@ export default function params () {
                 <br /> Id: {id} 
             </h1>
             <Link href="/rotas">
-                <button>Voltar</button>
+                <button>Voltar lá</button>
             </Link>
         </div>
     )
